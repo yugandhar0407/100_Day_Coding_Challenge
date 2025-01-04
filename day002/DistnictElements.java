@@ -1,6 +1,6 @@
 
 /*
- * Write a program to print all the distinct(unique) values in the given array with soeting?
+ * Write a program to print all the distinct(unique) values in the given array with sorting?
  * Distinct Values:
  * Distinct values means only unique values like - 
  *  An array may contain duplicates and the output should print every element only once with sorting.
