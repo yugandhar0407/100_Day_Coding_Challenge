@@ -18,7 +18,7 @@ public class FibonacciSeries {
 		int a = 0;
 		int b = 1;
 		int sum = 0;
-		// Used fot loop to iterate a numbers from 1 to 10;
+		// Used for loop to iterate a numbers from 1 to 10;
 		for (int i = 1; i <= 10; i++) {
 
 			System.out.print(i + ")" + sum + " ");
